@@ -5,7 +5,7 @@ using namespace std;
 //John Elstad 9/14/16//this keeps track of whether or not the person wants to play again
 
 int main(){
-  char answer = 'Y''Y'){// this loop is to play again
+  char answer = 'Y';// this loop is to play again
   srand(time(NULL));
 
   while (answer == 'Y'){
